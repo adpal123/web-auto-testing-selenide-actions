@@ -38,5 +38,4 @@ class AlfaOrderCardFormTest {
         phone_input_sub
             .shouldHave(text("Телефон указан неверно. Должно быть 11 цифр, например, +79012345678."));
     }
-
 }
